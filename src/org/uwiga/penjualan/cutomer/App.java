@@ -1,6 +1,9 @@
 package org.uwiga.penjualan.cutomer;
 
 public class App {
+	public App(){
+		
+	}
 
 	public static void main(String[] args) {
 		MasterCustomerModel Model = new MasterCustomerModel();
